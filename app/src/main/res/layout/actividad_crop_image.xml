@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/imagerecortada"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:transitionName="@string/name"
+        android:scaleType="fitXY"/>
+    <tfg.app.activity.DragRectView
+        android:id="@+id/rectangulo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="24dp"
+        android:src="@drawable/back"
+        app:backgroundTint="@color/colorPrimary" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/btnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_margin="24dp"
+        android:src="@drawable/next"
+        app:backgroundTint="@color/colorPrimary" />
+
+</RelativeLayout>

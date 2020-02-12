@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AngleBike</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- HERE, CHANGES THE NAME  -->
+    <string name="nav_item_home">Inicio</string>
+    <string name="nav_item_friends">Analizar</string>
+    <string name="nav_item_gallery">Galeria</string>
+    <string name="nav_item_graphs">Graficos</string>
+    <string name="nav_item_resultados">Resultados</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_gallery</item>
+        <item>@string/nav_item_graphs</item>
+        <item>@string/nav_item_resultados</item>
+    </string-array>
+
+    <string name="title_gallery">Galeria</string>
+    <string name="title_friends">Analizar</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_graph">Graficos</string>
+    <string name="title_result">Resultados</string>
+
+    <!-- Soportar texto de la parte de Gallery -->
+    <string name="titulo_actividad_detalle">Actividad De Detalle</string>
+    <string name="nombre_transicion_imagen">imagen_compartida</string>
+    <string name="nombre_transicion_graph">graph_transicion</string>
+
+    <!-- Soportar texto de la parte de Friends -->
+    <string name="titulo_actividad_imagen_detalle">Imagen En Detalle</string>
+    <string name="nombre_transicion">nombre_transicion</string>
+    <string name="name">name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_actividad_detalle">ActividadDetalle</string>
+</resources>

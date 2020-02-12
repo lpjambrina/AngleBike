@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#3949ab</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="actividadDetalle">#000000</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#8C9EFF</color>
+
+    <!-- Soportar Colores de la parte de Gallery -->
+    <color name="background_footer">#90000000</color>
+
+</resources>
