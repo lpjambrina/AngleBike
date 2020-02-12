@@ -1,5 +1,7 @@
 # AngleBike
-Proyecto del trabajo de fin de grado 'Analisis Biomecanico para ciclistas' creado por Carlos Jaynor Marquez Torres, Laura Perez Jambrina, Daniel Tocino Estrada. Dirigido por Luis Llana y Sonia Estevez Martin.
+The main objective of this project, It is to do a biomechanical analysis of a cyclist position while he pedals so he can optimize his position and reach a perfect adjustment via mobile application. 
+
+Degree's Final project "Biomechanical analysis for cyclists" created by Carlos Jaynor Marquez Torres, Daniel Tocino Estrada and Laura Pérez Jambrina. Directed by Luis Llana and Sonia Estevez Martin.
 
 ## Video con angulos
 [![Alt text for your video](imagenes/Resultado_video.jpg)](https://www.youtube.com/watch?v=BZ6KDBuNCKQ)
